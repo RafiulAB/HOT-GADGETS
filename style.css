@@ -1,0 +1,26 @@
+.button{
+    color: white;
+    background-color: black;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+}
+button :hover{
+    background-color: brown;
+}
+.price{
+    text-align: center;
+}
+.container{
+    margin-top: 20px;
+}
+.categoriess{
+    text-align: center;
+}
+.col-md-6{
+    align-items: center;
+}
+.cat2{
+    width: 150px
+    height: 
+}
